@@ -1,0 +1,1200 @@
+Title: push_pinThis Competition has an Official Discord ChannelMyles O'Neill · Last comment 1d ago by Enrique Aguirre
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480282
+
+
+
+Title: push_pinGet started here!Ashley Chow · Last comment 1d ago by Miehailing
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/477160
+
+
+
+Title: Sharing my SFT baseline 0.61+Lumos · Posted 5h ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487698
+
+
+
+Title: Some (interesting) samples from the Supplementary Kaggle DatasetSinan Calisir · Last comment 17h ago by Rich Olson
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487419
+
+
+
+Title: Findings from "Can Text Embeddings reveal a mean prompt?"winddude · Last comment 2d ago by Taimo
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487111
+
+
+
+Title: Proby McProbeFace: original_text/ rewritten_text possible average word countsRich Olson · Last comment 2d ago by Rich Olson
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486628
+
+
+
+Title: Sharing strategy of LB 0.66J3sseZhang · Last comment 2d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486124
+
+
+
+Title: How people are at 0.63+Prathamesh Sonawane · Last comment 2d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485287
+
+
+
+Title: Is there someone who improves score by Reinforcement Learning LLMs?masaishi · Posted 1d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487505
+
+
+
+Title: Fine-tuning Mistral 7B (semi-successfully)Rich Olson · Last comment 3d ago by winddude
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486436
+
+
+
+Title: Training modelAhmad Shapiro · Last comment 3h ago by Zhecheng Li
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487657
+
+
+
+Title: Submission isn't working.Kbo100 · Last comment 7h ago by Rich Olson
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487659
+
+
+
+Title: Gemma is dumbHyunsoo Lee 1010 · Posted 1d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487461
+
+
+
+Title: Subjective Competition Learnings (or a list of problems I encountered and possible solutions)Darien Schettler · Last comment 3d ago by Li Shengwei
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483916
+
+
+
+Title: Scoring ErrorAmarpreetKaur101 · Last comment 12h ago by AmarpreetKaur101
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487637
+
+
+
+Title: I'm confusedVladislav Ostankovich · Last comment 14h ago by Vitalii Stepanenko
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483421
+
+
+
+Title: Want to Use KerasNLP Starter Notebook with Gemma 7bISAKA Tsuyoshi · Last comment 2d ago by ANSHUL GUPTA1502
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486771
+
+
+
+Title: All Datasets at One PlaceKishan Vavdara · Last comment 1d ago by Aisha AL Mahmoud
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481811
+
+
+
+Title: Scoring fails all the time. Why?Hadeka · Last comment 2d ago by Rich Olson
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486783
+
+
+
+Title: Seeking Guidance on Accessing Internal Workings of Gemma Models for Token Probability AnalysisRafael Diederen · Posted 1d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487428
+
+
+
+Title: [LB Probing Result] There are no rewritten texts in the test data which begin with “Sure”!bogoconic1 · Last comment 3d ago by winddude
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483374
+
+
+
+Title: What to doaoi · Last comment 2d ago by aoi
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487002
+
+
+
+Title: Some attached models require additional steps to be accessed. See the Models panel for details.Ye Daotian · Last comment 2d ago by Rich Olson
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486286
+
+
+
+Title: What Languages Do We Need To Support?(Hosts Please Confirm)Kris Smith · Last comment 5d ago by Sohier Dane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486137
+
+
+
+Title: NoteBook timeout error ABHIJEET KUMAR JHA · Last comment 15h ago by G4br13l
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485772
+
+
+
+Title: can gemma recognize /n ?OBS$E$SED · Posted 3d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/487055
+
+
+
+Title: v2 version of 7b-it-quant is not addablePeter CXL · Last comment 4d ago by Peter CXL
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486767
+
+
+
+Title: What are your scores using fine-tuned models?Nicholas Broad · Last comment 3h ago by Z.F
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481322
+
+
+
+Title: Mistral 7B vs Mixtral 8x7BRich Olson · Last comment 7d ago by Kishan Vavdara
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486008
+
+
+
+Title: Some rewritten_text are equal to original_texttoshi_k · Last comment 10d ago by Prathamesh Sonawane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484791
+
+
+
+Title: what is the max length of the original_text?OBS$E$SED · Last comment 4d ago by ANSHUL GUPTA1502
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486733
+
+
+
+Title: Why doesn't GEMMA officially exist on the Docker HUB?chldlsel · Posted 4d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486751
+
+
+
+Title: FGSM to get input to the LLMshatz · Last comment 5d ago by shatz
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486378
+
+
+
+Title: How This Competition Worksmoth · Last comment 2d ago by MuhanWang
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480683
+
+
+
+Title: [Keras] - Just Save/Load the LoRA WeightsDarien Schettler · Last comment 8d ago by Darien Schettler
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484709
+
+
+
+Title: Fine Tuning Keras Gemma using loRAHunain Imran · Last comment 4d ago by haogood666
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486414
+
+
+
+Title: Gemma puzzles!tarick.morty · Last comment 7d ago by Dipam Chakraborty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485791
+
+
+
+Title: How to download gemma weights??ANSHUL GUPTA1502 · Last comment 5d ago by Alessandro Drago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485900
+
+
+
+Title: Prompt EngineeringSUMITKUMARDAM[학생](대학원 인공지능학과) ‍ · Posted 6d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486349
+
+
+
+Title: no output from gamma 7b ityuanzhe zhou · Last comment 8d ago by ANSHUL GUPTA1502
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485910
+
+
+
+Title: How exactly does code evaluation occur?Karnakbayev Artur · Last comment 6d ago by Taimo
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486122
+
+
+
+Title: Validation dataset in gemmaANSHUL GUPTA1502 · Last comment 8d ago by ANSHUL GUPTA1502
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485829
+
+
+
+Title: Utilizing ChatGPT-3 for Dataset Compilation – Are Other Models Also Viable?Hıdır Demir · Last comment 6d ago by Prathamesh Sonawane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486393
+
+
+
+Title: Length of prompt?Naomi de Moraes · Last comment 6d ago by Prathamesh Sonawane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486379
+
+
+
+Title: New Dataset 300 Rewritten text by Gemma 7bKishan Vavdara · Last comment 5d ago by Sinan Calisir
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483209
+
+
+
+Title: Can anybody please help a beginner with generating data?mirko ferretti · Last comment 6d ago by Oleg Yaroshevskiy
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486317
+
+
+
+Title: TPU for Fast Gemma 7B InferenceDarien Schettler · Last comment 3d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481756
+
+
+
+Title: Using language model inversionpmy0792 · Posted 4d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486676
+
+
+
+Title: Is this right way to using Gemma Prompt?Ahn Hyung Joon · Posted 4d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486670
+
+
+
+Title: Intoduction of MQA & GQATYLeeKR · Posted 4d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486697
+
+
+
+Title: A sea shanty for this competition! tarick.morty · Last comment 9d ago by Khoi Nguyen
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484863
+
+
+
+Title: All comp data visualizationPrathamesh Sonawane · Last comment 10d ago by huoxu
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485232
+
+
+
+Title: Prompt Rewriting with PRewrite(Prompt Rewriting with Reinforcement Learning)HaiYijing · Posted 4d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486684
+
+
+
+Title: Loading a finetuned modelAlessandro Drago · Last comment 7d ago by Alessandro Drago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485085
+
+
+
+Title: Introduce about metricsjcheckyn · Posted 4d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486671
+
+
+
+Title: Attention mechanismJinnnnK · Posted 4d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486675
+
+
+
+Title: problem with gemmasoumia0003 · Last comment 5d ago by José Sá
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485186
+
+
+
+Title: Notebook: Mistral 7B Prompt Engineering / T5 ScoringRich Olson · Posted 9d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485538
+
+
+
+Title: Training Gemma 7b Model on Kaggle TPUVishal Madle · Last comment 7d ago by Darien Schettler
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/486057
+
+
+
+Title: Dataset experiments: first 10,000Darek Kłeczek · Last comment 3d ago by tanxxx
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480414
+
+
+
+Title: Stuck on notebook running while submitting RevanthReddyY · Last comment 7d ago by Kris Smith
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485847
+
+
+
+Title: [Solved] Notebook Threw ExceptionDaikon99 · Last comment 4d ago by Sparsh Tewatia
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482008
+
+
+
+Title: OOM Issue: Gemma 7B inference without TPUsGeorge Papachristou · Last comment 9d ago by sakusaku
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485097
+
+
+
+Title: 11 hour submission changed from scoring to notebook running?Simon E Gilbert · Last comment 8d ago by Simon E Gilbert
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485558
+
+
+
+Title: Gemma 7B-it Transformer Version Unstable on KaggleAhmet Erdem · Last comment 7d ago by kcy4
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482607
+
+
+
+Title: Nan in the test dataZ.F · Last comment 12d ago by bogoconic1
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484710
+
+
+
+Title: Finetuning Instruction-tuned Model VS Foundational Model?Taimo · Last comment 10d ago by Prathamesh Sonawane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484599
+
+
+
+Title: Need some help :)yunus börekçi · Last comment 5d ago by yunus börekçi
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485282
+
+
+
+Title: T5 vs the popular 0.61 mean promptKhoi Nguyen · Last comment 14d ago by Taimo
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484204
+
+
+
+Title: transformers 4.39 is out, with fixed gemma/llama ram usage that were reported!Yacine Bouaouni · Posted 9d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/485493
+
+
+
+Title: Qestion about the format of rewrite_promptdbtmddn41 · Last comment 12d ago by dbtmddn41
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484600
+
+
+
+Title: Should we have the GPU un for as long as a submission is running?Giorgos Papachristoudis · Last comment 12d ago by Ravi Ramakrishnan
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484932
+
+
+
+Title: Can I save fine tune version of Gemma?Hunain Imran · Last comment 12d ago by Paul Mooney
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484615
+
+
+
+Title: This competition in a nutshell Khoi Nguyen · Last comment 15d ago by Jordan Bentley
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483853
+
+
+
+Title: rewrite_prompt column frustration..😕George Papachristou · Last comment 8d ago by toshi_k
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481141
+
+
+
+Title: Be careful of using the public leaderboard to evaluate your models!bogoconic1 · Last comment 6d ago by Karnakbayev Artur
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480290
+
+
+
+Title: My thoughts on why the baseline is so hard to beatKhoi Nguyen · Last comment 11d ago by toshi_k
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480703
+
+
+
+Title: Python dtype related issueAdbhut · Last comment 13d ago by Adbhut
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484438
+
+
+
+Title: This competition seems to be entirely reliant on chance.ELECTRO2616 · Last comment 14d ago by brandeno
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483899
+
+
+
+Title: A 26k dataset generated using Gemma-7b-itZ.F · Posted 15d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484087
+
+
+
+Title: T5 Prompt Scoring Playground / 600 GPT4 PromptsRich Olson · Posted 15d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484247
+
+
+
+Title: Poems, stories, letters, memos, paragraphs, recipes.. what else?tarick.morty · Last comment 16d ago by Sparsh Tewatia
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483670
+
+
+
+Title: ERROR : Cannot submit Your Notebook uses non-versioned datasetsMohssine Chebli · Last comment 3d ago by Kevin
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481525
+
+
+
+Title: Unsloth with x30 times faster, 60% reduction in memory usage, and 0% loss in accuracyKyle Walker · Last comment 12d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483820
+
+
+
+Title: About the submit notebookNam Đậu Văn · Last comment 12d ago by Paul Mooney
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484519
+
+
+
+Title: So hard to beat mean prompt, but getting close!tarick.morty · Last comment 13d ago by tarick.morty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482025
+
+
+
+Title: Is train.csv going to be replaced in submission?Rayline · Last comment 12d ago by Paul Mooney
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482769
+
+
+
+Title: Scoring is absurdly slowKhoi Nguyen · Last comment 16d ago by Sparsh Tewatia
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483180
+
+
+
+Title: What is your best LB score without mean prompt?Dinh Thoai Tran @ randrise.com · Last comment 16d ago by sayoulala
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483492
+
+
+
+Title: How to install packages in the offline modeAgnes · Last comment 16d ago by Oleksiy Kononenko
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483585
+
+
+
+Title: gemma predicting gibberishGUNER · Posted 15d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484067
+
+
+
+Title: HOW TO START AND  PRE-REQUIRE SKILLS?Ravi  Kumar1234 · Last comment 14d ago by Ravi  Kumar1234
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484140
+
+
+
+Title: GPU questionPrathamesh Sonawane · Last comment 17d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483288
+
+
+
+Title: After importing into the notebook, some Gemma model file of HF version is missing.minqi.han · Posted 14d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484264
+
+
+
+Title: How to access Gemma during competition (Internet off)Patrick M. · Last comment 12d ago by Giorgos Papachristoudis
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481579
+
+
+
+Title: Are system prompts part of rewrite prompt?tarick.morty · Last comment 15d ago by tarick.morty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484033
+
+
+
+Title: Minor Rules Update on LLMs allowed for use.Addison Howard · Posted 19d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483119
+
+
+
+Title: RewriteLM - Recent paper by Google for rewritingDipam Chakraborty · Last comment 17d ago by machinescantlearn
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481805
+
+
+
+Title: Speed Up Text Rewriting with OllamaELECTRO2616 · Posted 15d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/484071
+
+
+
+Title: Prompt is written by human not GemmaHyunsoo Lee 1010 · Last comment 16d ago by Kishan Vavdara
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483791
+
+
+
+Title: Efficient Gemma inference on multiple GPUsFlorian Simond · Posted 20d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482990
+
+
+
+Title: Nous Hermes 2 zero shot example based prompting - LB 0.56Dipam Chakraborty · Last comment 19d ago by Dipam Chakraborty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483237
+
+
+
+Title: Submission is taking a long time to processMohssine Chebli · Last comment 10d ago by Dawid Kamrowski
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481818
+
+
+
+Title: What are the rules regarding ChatGPT and the like, exactly?Khoi Nguyen · Last comment 19d ago by Addison Howard
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481661
+
+
+
+Title: Difference b/w performance of models used for final rewritten_prompt for submission ?Sparsh Tewatia · Posted 16d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483814
+
+
+
+Title: What's the baseline cosine score for your generated prompts?Dipam Chakraborty · Last comment 19d ago by Dipam Chakraborty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483228
+
+
+
+Title: Do we have to use gemma?Fire Bird · Last comment 17d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483241
+
+
+
+Title: Using sentence-transformer-t5-base from huggingface.Hunain Imran · Last comment 17d ago by junyeaong
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483010
+
+
+
+Title: Full precision weights does not fix TF sT5 having different output from HF(PT) sT5Jack Min Ong · Posted 18d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483519
+
+
+
+Title: what is gemma?Aleator · Last comment 16d ago by Aleator
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483642
+
+
+
+Title: eccentricity and optimization of promptsMAT · Posted 17d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483728
+
+
+
+Title: Correct format for prompting GemmaS J Moudry · Last comment 17d ago by S J Moudry
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483353
+
+
+
+Title: Maybe the test dataset has prompt injection issues?Dipam Chakraborty · Last comment 19d ago by Dipam Chakraborty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483243
+
+
+
+Title: Submission ErrorTính Đỗ Phạm Phúc · Last comment 17d ago by Bao Loc Pham
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483638
+
+
+
+Title: Submission Scoring ErrorMo Amin · Last comment 19d ago by Mo Amin
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483248
+
+
+
+Title: Official Ask for Host or Kaggle Staff HelpDarien Schettler · Last comment 23d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481959
+
+
+
+Title: 2k generated samples 🪄Nicholas Broad · Last comment 20d ago by Prady G
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480262
+
+
+
+Title: Merge the prompt to LB 0.61 (from LB 0.58 and LB 0.60)Vincent Sirius · Last comment 21d ago by Hunain Imran
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481116
+
+
+
+Title: 2.5K rewrite prompts generated by MistralDinh Thoai Tran @ randrise.com · Posted 21d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482755
+
+
+
+Title: Interesting Article on AI Prompt Engineering C R Suthikshn Kumar · Posted 19d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483157
+
+
+
+Title: More Gemma bugs Nicholas Broad · Last comment 23d ago by bogoconic1
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482283
+
+
+
+Title: Having trouble getting a score for my submissionpwei07 · Last comment 14d ago by Taimo
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481982
+
+
+
+Title: Why won't this simple code submission work? Simon E Gilbert · Last comment 19d ago by Simon E Gilbert
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483226
+
+
+
+Title: Longest text in the hidden test set?winddude · Last comment 21d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482228
+
+
+
+Title: How to map the output prompt from my model to  "rewrite_prompt"? Mrinal Mathur · Last comment 18d ago by Hyunsoo Lee 1010
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483325
+
+
+
+Title:  About the hardware requirementsStars Catcher · Last comment 20d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482967
+
+
+
+Title: ValueError: pyarrow.lib.IpcWriteOptions size changed, may indicate binary incompatibility. Expected 88 from C header, got 72 from PyObjectKyle Walker · Last comment 19d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483220
+
+
+
+Title: Text Generation vs. Question Answering for the LLM Prompt Recovery Competition: Which is More Suitable?ISAKA Tsuyoshi · Posted 19d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/483170
+
+
+
+Title: Beginner question: Persistence of imported model from HF and fine-tuned local modelnota science · Last comment 21d ago by nota science
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482691
+
+
+
+Title: Gemma InferenceVincent Schuler · Posted 22d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482661
+
+
+
+Title: Tiny Datasets for Development and DebuggingISAKA Tsuyoshi · Posted 22d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482575
+
+
+
+Title: A question about DataPrathamesh Sonawane · Last comment 19d ago by Paul Mooney
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482298
+
+
+
+Title: About non-deterministic outputs of LLM text-generation bogoconic1 · Last comment 23d ago by bogoconic1
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481652
+
+
+
+Title: Can I upload a model that I fine-tuned on my own machine?Minxuan Lv · Last comment 19d ago by Paul Mooney
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482002
+
+
+
+Title: i find the papers ...  most are 2024 publishedhengck23 · Last comment 25d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480390
+
+
+
+Title: LLM-PR | Seq2seq + Retrievalmoth · Last comment 1mo ago by Nicholas Broad
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481641
+
+
+
+Title: Sample submission id vs test idmoth · Last comment 20d ago by Jason Chan
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481496
+
+
+
+Title: Handy Preprocessing Function to Handle NaN Values in Pandas DataFramesISAKA Tsuyoshi · Last comment 22d ago by ISAKA Tsuyoshi
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482569
+
+
+
+Title: waht kind of text are in the sample datahengck23 · Last comment 1mo ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481624
+
+
+
+Title: Can't import SFTTrainer from 'trl' module in KaggleMarshal Tudu · Last comment 22d ago by Nicholas Broad
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482576
+
+
+
+Title: Issue when "Save and Run All" or Submit that I can't replicate in interactive sessionDavid R. Pugh · Last comment 23d ago by 陳三波
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481577
+
+
+
+Title: How Would Claude Opus Approach This Task?Darien Schettler · Last comment 25d ago by tarick.morty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481922
+
+
+
+Title: GPU quote used at submission?Pzero · Last comment 24d ago by Ravi Ramakrishnan
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481995
+
+
+
+Title: Which Gemma variation is used to generate the test set?Belal Elhossany Ahmed · Last comment 24d ago by Darien Schettler
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480637
+
+
+
+Title: How to Reproduce train.csv Rewritten Text?Darien Schettler · Last comment 1mo ago by Darien Schettler
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481500
+
+
+
+Title: Concerning the EvaluationTheItCrOw · Last comment 24d ago by Gunes Evitan
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480243
+
+
+
+Title: Prompts that get the model to "Rewrite"Mojtaba Yousefi · Posted 25d ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481980
+
+
+
+Title: Hugging Face Version of Gemma could be buggyc-number · Last comment 25d ago by S J Moudry
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481313
+
+
+
+Title: Try the Sharpened Cosine Similarity Demo Now!Prgckwb · Last comment 1mo ago by Prgckwb
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480951
+
+
+
+Title: Training LocallyS J Moudry · Last comment 24d ago by Paul Mooney
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/482047
+
+
+
+Title: 4343 Samples Dataset  containing : 2541 samples from Gemma and 1802 from Gemini Newton Baba · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481151
+
+
+
+Title: Asking Gemma himself to generate rewrite_prompt [0.47 LB]Nischay Dhankhar · Last comment 1mo ago by sambhav dixit
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480320
+
+
+
+Title: No train set on submission.Ilan Meissonnier · Last comment 25d ago by Kyle Walker
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481651
+
+
+
+Title: Question about inference timeLuan Ngo Dinh · Last comment 25d ago by bogoconic1
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481769
+
+
+
+Title: 3000 Rewritten texts dataset 📚Dipam Chakraborty · Last comment 1mo ago by Dipam Chakraborty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480831
+
+
+
+Title: Has anyone been encountering the Notebook Threw Exception problem?Rimbaud Li · Last comment 25d ago by Oleg Yaroshevskiy
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481806
+
+
+
+Title: Clarification Question about original_text Columncstrohmy · Last comment 20d ago by GUNER
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480472
+
+
+
+Title: Language Model InversionJJ · Last comment 1mo ago by Savu George
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480687
+
+
+
+Title: P100 can't load 7b-it?Horikitasaku · Last comment 1mo ago by Horikitasaku
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481320
+
+
+
+Title: Confusion about LLM useVishal Patil · Last comment 25d ago by Vishal Patil
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481986
+
+
+
+Title: Submission keeps failing due to Gemma missing files problem!quangp · Last comment 1mo ago by ammarali32
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481455
+
+
+
+Title: Evaluation Metric Implementationbogoconic1 · Last comment 1mo ago by bogoconic1
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480437
+
+
+
+Title: Supplementary Texts Rewritten by GenAI ModelsPaul Mooney · Last comment 1mo ago by bogoconic1
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480288
+
+
+
+Title: version of t5 encoderhengck23 · Last comment 1mo ago by hengck23
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481049
+
+
+
+Title: Asking ChatGPT to recover the promptDipam Chakraborty · Last comment 1mo ago by uripeled2
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480590
+
+
+
+Title: Does rewrite_prompt contain original_text?Dinh Thoai Tran @ randrise.com · Last comment 1mo ago by Dinh Thoai Tran @ randrise.com
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480466
+
+
+
+Title: Starter materials for referenceRavi Ramakrishnan · Last comment 1mo ago by MrSimple
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480351
+
+
+
+Title: Building training datasets. Thoughts on how to come up with different 'rewrite this as...' prompts?Greg.E · Last comment 1mo ago by Greg.E
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480752
+
+
+
+Title: Single prompt LB 0.6Dipam Chakraborty · Last comment 1mo ago by Dipam Chakraborty
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480959
+
+
+
+Title: What's in the sample submission? Darek Kłeczek · Last comment 1mo ago by hengck23
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480434
+
+
+
+Title: Concerns About Timing in this Compchuhac · Last comment 24d ago by Gunes Evitan
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480394
+
+
+
+Title: Rewrite Prompts DatasetIlan Meissonnier · Last comment 1mo ago by Prathamesh Sonawane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480771
+
+
+
+Title: How to stop Gemma from saying "sure, here is your rewritten text"?JkimIsCoding · Last comment 1mo ago by Nicholas Broad
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480581
+
+
+
+Title: Pondering on the impact of temperatureIlya Turaev · Last comment 1mo ago by Gabriel Freddi
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480992
+
+
+
+Title: Could the inference configuration for the test set be provided?quangp · Last comment 1mo ago by Darien Schettler
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480604
+
+
+
+Title: Data Generated With GeminiNewton Baba · Last comment 1mo ago by Newton Baba
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480316
+
+
+
+Title: Guessing prompts to the top of the leaderboardIlan Meissonnier · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480967
+
+
+
+Title: What should a beginner be aware of before starting with this competition?Nembot Jules · Last comment 1mo ago by Nembot Jules
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480379
+
+
+
+Title: Perplexity Baseline with Gemma 2BSimon Veitner · Last comment 1mo ago by Prathamesh Sonawane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480957
+
+
+
+Title: Tensorflow consuming all GPU VRAMmoth · Last comment 1mo ago by moth
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480719
+
+
+
+Title: Summary of my ideas(As a beginner)Poet77 · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480410
+
+
+
+Title: More data! (400 prompts using Alpaca and gpt3.5)Prathamesh Sonawane · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481069
+
+
+
+Title: Clarification on original_textandrea · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480335
+
+
+
+Title: SEEKING TEAMMATES!?Girum Wondemagegn · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480470
+
+
+
+Title: Does SFT model need full rewritten text to predict the prompt?Dipam Chakraborty · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480841
+
+
+
+Title: The error of not finding "tokenizer.model" in the codeChaoticEra · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480645
+
+
+
+Title: Question：model loading errorryo-Ichi · Last comment 1mo ago by ryo-Ichi
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480968
+
+
+
+Title: Finetune PromptHorikitasaku · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480583
+
+
+
+Title: Data missingMaiernator · Last comment 1mo ago by Maiernator
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480229
+
+
+
+Title: Explain the taskAsher B. · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480575
+
+
+
+Title: Maybe SFT task will be the baseline 😉kagglethebest(Yang Ke) · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480389
+
+
+
+Title: Long Generation TimeIlan Meissonnier · Last comment 1mo ago by Simon Veitner
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480753
+
+
+
+Title:  Sharpened Cosine Similarity (SCS). SharpenedSDP. SCS performance and behavior. Marília Prata · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480258
+
+
+
+Title: How to make starter code run?jfan3 · Last comment 1mo ago by Ilan Meissonnier
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480846
+
+
+
+Title: Foundational PapersAli Elouafiq · Last comment 1mo ago by Prathamesh Sonawane
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/481055
+
+
+
+Title: Are the rewritten texts in the test dataset provided as is?Dipam Chakraborty · Last comment 1mo ago by Zhecheng Li
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480638
+
+
+
+Title: Has anyone tried supervised fine-tuning?OsakanaTeishoku · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480672
+
+
+
+Title: Does the final output need to include the original text?sayoulala · Last comment 1mo ago by Dinh Thoai Tran @ randrise.com
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480653
+
+
+
+Title: Dataset has only one 1 element ?Rashid rk · Last comment 1mo ago by Paul Mooney
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480528
+
+
+
+Title: Original / rewritten text sizesJackie Tung · Posted 1mo ago
+
+URL: https://www.kaggle.com/competitions/llm-prompt-recovery/discussion/480272
+
+
+

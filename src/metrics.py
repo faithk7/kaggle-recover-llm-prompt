@@ -13,9 +13,9 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = SentenceTransformer(model_name)
 
 
-def calculate_score(generated_sentence, truth_sentence):
+def calculate_score(generated_sentence, ground_truth_sentence):
     submission_embedding = get_embedding(generated_sentence)
-    ground_truth_embedding = get_embedding(truth_sentence)
+    ground_truth_embedding = get_embedding(ground_truth_sentence)
     scs = sharpened_cosine_similarity(submission_embedding, ground_truth_embedding)
     return scs
 
@@ -44,7 +44,7 @@ def sharpened_cosine_similarity(embedding1, embedding2, exponent=3):
 if __name__ == "__main__":
     generated_sentence = "What is the capital of France?"
     # generated_sentence = "Paris is the capital of France."
-    truth_sentence = "Paris is the capital of France."
+    ground_truth_sentence = "Paris is the capital of France."
 
-    score = calculate_score(generated_sentence, truth_sentence)
+    score = calculate_score(generated_sentence, ground_truth_sentence)
     print(f"Score: {score:.4f}")
