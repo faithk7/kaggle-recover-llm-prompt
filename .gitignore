@@ -13,6 +13,8 @@
 logs/**/*
 
 !data/meta.txt
+!external/*.json
+!external/*.csv
 !external/meta.txt
 !external/k7/k7*.json
 !logs/dataset-metadata.json
