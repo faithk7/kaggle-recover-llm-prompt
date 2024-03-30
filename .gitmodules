@@ -1,0 +1,3 @@
+[submodule "automatic_prompt_engineer"]
+	path = automatic_prompt_engineer
+	url = https://github.com/keirp/automatic_prompt_engineer.git
