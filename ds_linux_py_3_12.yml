@@ -27,7 +27,6 @@ dependencies:
   - aws-checksums=0.1.13=h5eee18b_0
   - aws-crt-cpp=0.18.16=h6a678d5_0
   - aws-sdk-cpp=1.10.55=h721c034_0
-  - bitsandbytes=0.43.0=py312hb839bd0_0
   - blas=1.0=mkl
   - bleach=4.1.0=pyhd3eb1b0_0
   - boost-cpp=1.82.0=hdb19cb5_2
@@ -35,9 +34,10 @@ dependencies:
   - brotli-python=1.0.9=py312h6a678d5_7
   - bzip2=1.0.8=h5eee18b_5
   - c-ares=1.19.1=h5eee18b_0
-  - ca-certificates=2024.2.2=hbcca054_0
-  - certifi=2024.2.2=pyhd8ed1ab_0
+  - ca-certificates=2024.3.11=h06a4308_0
+  - certifi=2024.2.2=py312h06a4308_0
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
+  - click=8.1.7=py312h06a4308_0
   - comm=0.2.2=pyhd8ed1ab_0
   - cuda-cudart=12.1.105=0
   - cuda-cupti=12.1.105=0
@@ -142,6 +142,7 @@ dependencies:
   - nest-asyncio=1.6.0=pyhd8ed1ab_0
   - nettle=3.7.3=hbbd107a_1
   - networkx=3.1=py312h06a4308_0
+  - nltk=3.8.1=py312h06a4308_0
   - numexpr=2.8.7=py312hf827012_0
   - numpy=1.26.4=py312hc5e2394_0
   - numpy-base=1.26.4=py312h0da6c21_0
@@ -186,6 +187,8 @@ dependencies:
   - safetensors=0.4.2=py312h4b3b743_0
   - scikit-learn=1.4.1.post1=py312h394d371_0
   - scipy=1.11.4=py312hc5e2394_0
+  - sentence-transformers=2.6.1=pyhd8ed1ab_0
+  - sentencepiece=0.1.99=py312hdb19cb5_0
   - setuptools=68.2.2=py312h06a4308_0
   - six=1.16.0=pyhd3eb1b0_1
   - snappy=1.1.10=h6a678d5_1
@@ -221,6 +224,7 @@ dependencies:
   - zlib=1.2.13=hd590300_5
   - zstd=1.5.5=hc292b87_0
   - pip:
+      - bitsandbytes==0.43.0
       - docstring-parser==0.16
       - markdown-it-py==3.0.0
       - mdurl==0.1.2

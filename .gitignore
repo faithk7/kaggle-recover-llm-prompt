@@ -13,6 +13,8 @@
 logs/**/*
 
 !data/meta.txt
+!data/test.csv
+!data/train.csv
 !external/*.json
 !external/*.csv
 !external/meta.txt
